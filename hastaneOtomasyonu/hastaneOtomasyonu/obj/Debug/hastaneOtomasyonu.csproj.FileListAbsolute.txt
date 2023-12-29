@@ -1,0 +1,7 @@
+E:\Visual Studio Project\hastaneOtomasyonu\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe.config
+E:\Visual Studio Project\hastaneOtomasyonu\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.exe
+E:\Visual Studio Project\hastaneOtomasyonu\hastaneOtomasyonu\bin\Debug\hastaneOtomasyonu.pdb
+E:\Visual Studio Project\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.AssemblyReference.cache
+E:\Visual Studio Project\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.csproj.CoreCompileInputs.cache
+E:\Visual Studio Project\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.exe
+E:\Visual Studio Project\hastaneOtomasyonu\hastaneOtomasyonu\obj\Debug\hastaneOtomasyonu.pdb
